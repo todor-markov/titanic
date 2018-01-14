@@ -1,0 +1,35 @@
+AdaBoost, Extra Trees, Logistic Regression
+0.8177
+
+AdaBoost, Extra Trees, LDA
+0.8234
+
+AdaBoost, Extra Trees, QDA
+0.8155
+
+LDA, SVM, AdaBoost
+0.8076
+
+QDA, SVM, AdaBoost
+0.802
+
+LDA, SVM, Gradient Boosting
+0.811
+
+QDA, SVM, Gradient Boosting
+0.811
+
+LDA, QDA, SVM, AdaBoost, Gradient Boosting, Random Forest
+0.8087
+
+LDA, QDA, AdaBoost, Gradient Boosting, Extra Trees,
+0.8155
+
+Logistic Regression, SVM, AdaBoost, Gradient Boosting, Random Forest
+0.8199
+
+SVM, AdaBoost, Gradient Boosting, Random Forest
+0.8279
+
+Logistic Regression, AdaBoost, Gradient Boosting, Extra Trees
+0.8222
